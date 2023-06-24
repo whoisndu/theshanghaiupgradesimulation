@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-""" 
-Created on Sat Jun 24 16:32:12 2023
-
-@author: NDU-PC
-"""
 
 # List of files to load
 file_list = ["Ankr Amount Deposit Count filepath",
