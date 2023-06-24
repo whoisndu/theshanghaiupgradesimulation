@@ -1,6 +1,6 @@
 
 
-## We featured engineered the data to derive the cumulative sum of Ethereum tokens deposited by each address weekly. The snippet below shows this task.
+## I featured engineered the data to derive the cumulative sum of Ethereum tokens deposited by each address weekly. The snippet below shows this task.
 
 
 import pandas as pd
@@ -23,8 +23,8 @@ precise rewards each depositor earns weekly. The code snippet below shows this.
 import pandas as pd
 import numpy as np
 # Read in the cumulative deposit data
-cumulative_deposit_data = pd.read_csv(r"Weekly Cumulative Deposits
-Filepath")
+
+cumulative_deposit_data = pd.read_csv(r"Weekly Cumulative Deposits Filepath")
 cumulative_deposit_data.columns = ['addresses'] + [f'week_{i}' for i in
 range(len(cumulative_deposit_data.columns) - 1)]
 # Read in the rewards per week data
