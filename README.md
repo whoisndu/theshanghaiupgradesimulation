@@ -1,6 +1,6 @@
 **Simulation and Scenario Analytics in the Crypto Industry**
 
-This repository contains research demonstrating the significance of Simulations and Scenario Analytics in the Crypto Industry. The research was originally published on March 14th, 2023, and can be accessed [here]([url](https://whoisndu.substack.com/p/the-shanghai-upgrade-unlock-forecasting)).
+This repository contains research demonstrating the significance of Simulations and Scenario Analytics in the Crypto Industry. The research was originally published on March 14th, 2023, and can be accessed here - https://whoisndu.substack.com/p/the-shanghai-upgrade-unlock-forecasting.
 
 **License**
 
